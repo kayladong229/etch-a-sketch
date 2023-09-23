@@ -3,4 +3,6 @@ A web application based on the game Etch-a-Sketch, created using HTML, CSS and J
 
 When the user moves their mouse cursor over the smaller squares, the squares change into a random color. The same square can even become a different color when the cursor hovers over it again.
 
+![Application Preview](./assets/Screen%20Shot%202023-09-22%20at%206.33.38%20PM.png)
+
 Project link: https://kayladong229.github.io/etch-a-sketch/
