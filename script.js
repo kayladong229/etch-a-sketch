@@ -18,8 +18,8 @@ function createDiv(num) {
     grid.appendChild(squareDiv);
 
     squareDiv.addEventListener("mouseover", () => {
-    // generate a random color for each mouseover event
-      const randomColor = Math.floor(Math.random()*16777215).toString(16);
+      // generate a random color for each mouseover event
+      const randomColor = Math.floor(Math.random() * 16777215).toString(16);
       squareDiv.style.backgroundColor = "#" + randomColor;
     });
   }
